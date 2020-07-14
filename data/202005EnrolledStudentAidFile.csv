@@ -1,0 +1,23 @@
+"DEGREE_LEVEL","DEGREE","COLLEGE","DEPARTMENT","MAJOR","ENROLLED_STUDENTS","PELL_COUNT","PELL_AMT","HOPE_ZELL_COUNT","HOPE_ZELL_AMT","ZELL_COUNT","ZELL_AMT","HOPE_COUNT","HOPE_AMT","FED_AID_COUNT","FED_AID_AMT","STATE_AID_COUNT","STATE_AID_AMT","LOAN_ALL_LOANS_COUNT","LOAN_ALL_LOANS_AMT","LOAN_FED_AID_COUNT","LOAN_FED_AID_AMT","LOAN_NON_FED_AID_COUNT","LOAN_NON_FED_AID_AMT","GRANT_SCH_AID_COUNT","GRANT_SCH_AID_AMT","GRANT_SCH_UGA_AID_COUNT","GRANT_SCH_UGA_AID_AMT","GRANT_SCH_UGA_NEED_AID_COUNT","GRANT_SCH_UGA_NEED_AID_AMT","EXEMPTION_NONSCHOL_COUNT","EXEMPTION_NONSCHOL_AMT","EXEMPTION_AS_SCHOL_COUNT","EXEMPTION_AS_SCHOL_AMT","ALL_AID_COUNT","ALL_AID_AMT"
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Consumer Economics",48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Consumer Journalism",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Family and Consumer Sci Educ",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Financial Planning",76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Housing Management & Policy",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ","Intended Consumer Journalism",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Finan Plan Hous and Cons Econ",,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Foods and Nutrition","Culinary Science & Nutrition",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Foods and Nutrition",Dietetics,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Foods and Nutrition","Intended Dietetics",44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Foods and Nutrition","Nutritional Sciences",82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Foods and Nutrition",,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Human Dev and Family Sci","Human Development and Fam Sci",194,0,0,1,1956,1,1956,0,0,0,0,1,1956,0,0,0,0,0,0,1,3456,0,0,0,0,0,0,0,0,1,3456
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Human Dev and Family Sci",,194,0,0,1,1956,1,1956,0,0,0,0,1,1956,0,0,0,0,0,0,1,3456,0,0,0,0,0,0,0,0,1,3456
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Textiles, Merchand, Interiors","Fashion Merchandising",101,0,0,2,6431,1,4895,1,1536,0,0,2,6431,0,0,0,0,0,0,2,10431,2,4000,0,0,0,0,0,0,2,10431
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Textiles, Merchand, Interiors","Furnishings and Interiors",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Textiles, Merchand, Interiors","Intended Furnish and Interiors",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bachelor's,BSFCS,"College of Fam and Consumr Sci","Textiles, Merchand, Interiors",,116,0,0,2,6431,1,4895,1,1536,0,0,2,6431,0,0,0,0,0,0,2,10431,2,4000,0,0,0,0,0,0,2,10431
+Bachelor's,BSFCS,"College of Fam and Consumr Sci",,,621,0,0,3,8387,2,6851,1,1536,0,0,3,8387,0,0,0,0,0,0,3,13887,2,4000,0,0,0,0,0,0,3,13887
+Bachelor's,BSFCS,,,,621,0,0,3,8387,2,6851,1,1536,0,0,3,8387,0,0,0,0,0,0,3,13887,2,4000,0,0,0,0,0,0,3,13887
+Bachelor's,,,,,621,0,0,3,8387,2,6851,1,1536,0,0,3,8387,0,0,0,0,0,0,3,13887,2,4000,0,0,0,0,0,0,3,13887
+,,,,,621,0,0,3,8387,2,6851,1,1536,0,0,3,8387,0,0,0,0,0,0,3,13887,2,4000,0,0,0,0,0,0,3,13887

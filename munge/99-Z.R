@@ -7,6 +7,7 @@ z99.ModDate = as.Date("2020-07-10")
 ## Step 99.00 create object table                                            ###
 ################################################################################
 dtObj<-setDT(lsos(), keep.rownames = T)[]
+names(dtObj)[1] <- "Name" ### rename data.table column
 lsObj<-list(dtObj[Type == 'data.table' & Length_Rows == 0][,1])
 ################################################################################
 ## Step 99.01 access hidden attribute in R data frame  https://is.gd/zenrph ###

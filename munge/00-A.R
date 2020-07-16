@@ -3,8 +3,9 @@
 ################################################################################
 start.time = Sys.time()
 ################################################################################
-## Step 00.01 create object table                                            ###
-## Check existence of directory and create if doesn't exist                  ### https://tinyurl.com/y3adrqwa
+## Step 00.01 create object table               https://tinyurl.com/y3adrqwa ###
+## Check existence of directory and create if doesn't exist                  ###
+################################################################################
 dirCheck(mainDir, subDir)
 ################################################################################
 ## Step 00.02: clean dataframes with Janitor                                 ###
